@@ -8,10 +8,6 @@ I like me dogs
 I like to travel around the world
 I like to contribute to open souerce
 
- <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Yesid Poveda LinkedIn Profile" height="30" width="30">
-<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Yesid Poveda LinkedIn Profile" height="30" width="30">
-<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Yesid Poveda LinkedIn Profile" height="30" width="30">
-<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Yesid Poveda LinkedIn Profile" height="30" width="30">
 
 <h2 align="center">You can reach me at :alien:</h2>
 
