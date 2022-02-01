@@ -1,19 +1,19 @@
 # Yesid Poveda
 
-<h2 align="center">About me</h2>
+<h2 align="center">About me 😎</h2>
 
-I'm working in a personal project 
+  I'm working in a personal project 🥇🥈🥉 
 
-I'm Colombian
+  I'm Colombian 🇨🇴 
 
-I like me dogs
+  I like me dogs 🐕🐶🦮
 
-I like to travel around the world
+  I like to travel around the world 🚡🚅🥤  
 
-I like to contribute to open souerce
+  I like to contribute to open souerce 👐🕵️
 
 
-<h2 align="center">You can reach me at :alien:</h2>
+<h2 align="center">You can reach me at </h2>
 
 <p align="center">
 
