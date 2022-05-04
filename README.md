@@ -17,14 +17,9 @@
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/yesidpoveda/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Yesid Poveda LinkedIn Profile" height="30" width="30">
-  </a>
-
-  <a href="https://twitter.com/yapyDev">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Yesid Poveda Twitter Profile" height="30" width="30">
-  </a>
-
+<a href="https://twitter.com/yapyDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tellourakaterin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yesidpoveda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="katerin-tello-ura/" height="30" width="40" /></a>
+  
 </p>
 
 
