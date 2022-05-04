@@ -10,8 +10,8 @@
   - 🐕 I like me dogs 🐶🦮
 
 
-<h3 align="center" >You can reach me at ![](https://komarev.com/ghpvc/?username=yesialexanderpoveda&color=yellowgreen)</h3>
-
+<h3 align="center" >You can reach me at</h3>
+![](https://komarev.com/ghpvc/?username=yesialexanderpoveda&color=yellowgreen)
 <p align="center">
 
   <a href="https://www.linkedin.com/in/yesidpoveda/">
