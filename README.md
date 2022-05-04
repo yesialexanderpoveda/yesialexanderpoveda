@@ -5,10 +5,9 @@
 
 
 
-  - 🐕 I like me dogs 🐶🦮
   - 🌱 I’m currently learning new frameworks 🌱
-  - 🚡 I like to travel around the world 🚅   
   - 👐 I like to contribute to open source 🕵️
+  - 🐕 I like me dogs 🐶🦮
 
 
 <h3 align="center" >You can reach me at </h3>
