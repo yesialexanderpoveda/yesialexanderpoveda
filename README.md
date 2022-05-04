@@ -12,7 +12,7 @@
  
 
 
-<h4 align="center" >Reach me at</h4>
+<h4 align="left" >Reach me at</h4>
 
 
 <p align="center">
