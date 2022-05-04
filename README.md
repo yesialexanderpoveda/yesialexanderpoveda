@@ -56,7 +56,12 @@
 #### Upcoming
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-the-badge&logo=socket.io&badgeColor=010101)
 
-https://github-readme-stats.vercel.app/api?username=yesialexanderpoveda&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=vue-dark&hide_border&count_private=true
+![All Stats](https://github-readme-stats.vercel.app/api?username=yesialexanderpoveda&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=vue-dark&hide_border&count_private=true)
+</span>
+<span>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesialexanderpoveda&layout=compact&theme=vue-dark)
+</span>
+</span>
 ---
 
 ⭐️ From [@Yapy](https://github.com/yesialexanderpoveda)
