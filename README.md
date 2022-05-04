@@ -55,6 +55,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-the-badge&logo=github&logoColor=white)
 
 <strong style="margin-bottom: 10px; display:block;">Upcoming:</strong>
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-the-badge&logo=socket.io&badgeColor=010101)
 ---
 
 ⭐️ From [@Yapy](https://github.com/yesialexanderpoveda)
