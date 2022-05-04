@@ -55,6 +55,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-the-badge&logo=github&logoColor=white)
 #### Upcoming
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-the-badge&logo=socket.io&badgeColor=010101)
+
+https://github-readme-stats.vercel.app/api?username=yesialexanderpoveda&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=vue-dark&hide_border&count_private=true
 ---
 
 ⭐️ From [@Yapy](https://github.com/yesialexanderpoveda)
