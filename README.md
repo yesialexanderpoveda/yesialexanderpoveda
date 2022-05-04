@@ -15,7 +15,7 @@
 <h4 align="left" >Reach me at</h4>
 
 
-<p align="center">
+<p align="center" style="display: flex">
 
 <a href="https://twitter.com/yapyDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tellourakaterin" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yesidpoveda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="katerin-tello-ura/" height="30" width="40" /></a>
