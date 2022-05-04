@@ -53,8 +53,7 @@
 ![Rabbitmq](https://img.shields.io/badge/rabbitmq-%23E34F26.svg?style=flat-the-badge&logo=rabbitmq&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-the-badge&logo=github&logoColor=white)
-
-<strong style="margin-bottom: 10px; display:block;">Upcoming:</strong>
+#### Upcoming
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-the-badge&logo=socket.io&badgeColor=010101)
 ---
 
