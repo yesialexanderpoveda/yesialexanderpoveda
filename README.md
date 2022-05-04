@@ -9,8 +9,8 @@
   - 👐 I like to contribute to open source 🕵️
   - 🐕 I like me dogs 🐶🦮
 
-![](https://komarev.com/ghpvc/?username=yesialexanderpoveda&color=yellowgreen)
-<h3 align="center" >You can reach me at </h3>
+
+<h3 align="center" >You can reach me at ![](https://komarev.com/ghpvc/?username=yesialexanderpoveda&color=yellowgreen)</h3>
 
 <p align="center">
 
