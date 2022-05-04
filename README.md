@@ -50,6 +50,7 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-the-badge&logo=redis&logoColor=white)
 #### DevOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-the-badge&logo=docker&logoColor=white)
+![Rabbitmq](https://img.shields.io/badge/rabbitmq-%23E34F26.svg?style=flat-the-badge&logo=rabbitmq&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-the-badge&logo=github&logoColor=white)
 
