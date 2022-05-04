@@ -39,21 +39,15 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-the-badge&logo=redux&logoColor=white)
 ![Angular](https://img.shields.io/badge/%20-Angular-red?style=flat-square&logo=angular)
-
-<br>
 #### Backend
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-the-badge&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-the-badge&logo=nestjs&logoColor=white)
-
-<br>
 #### BD
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-the-badge&logo=redis&logoColor=white)
-
-<br>
 #### DevOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-the-badge&logo=git&logoColor=white)
