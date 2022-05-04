@@ -2,15 +2,14 @@
 
 <h2 align="center">About me 😎</h2>
 
-  I'm working in a personal project 🥇🥈🥉 
+ 
+ 
+  
 
-  I'm Colombian 🇨🇴 
-
-  I like me dogs 🐕🐶🦮
-
-  I like to travel around the world 🚡🚅🥤  
-
-  I like to contribute to open source 👐🕵️
+  - I like me dogs 🐕🐶🦮
+  - 🌱 I’m currently learning new frameworks
+  - I🚡🚅🥤 like to travel around the world   
+  - 👐🕵️ I like to contribute to open source 
 
 
 <h2 align="center">You can reach me at </h2>
