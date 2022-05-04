@@ -38,7 +38,7 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-the-badge&logo=redux&logoColor=white)
-![Angular](https://img.shields.io/badge/%20-Angular-red?style=flat-square&logo=angular&logoColor=red)
+![Angular](https://img.shields.io/badge/%20-Angular-red?style=flat-square&logo=angular)
 #### Backend
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-the-badge&logo=express&logoColor=%2361DAFB)
