@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=29&duration=4000&color=6F8EE3&lines=Hi+%F0%9F%91%8B%2C+I'm+Yesid+Poveda+;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB++Welcome+to+my+repository+)](https://git.io/typing-svg)
 
 <h3 align="center" >About me 😎</h3>
-
+![](https://komarev.com/ghpvc/?username=yesialexanderpoveda&color=yellowgreen)
 
 
   - 🌱 I’m currently learning new frameworks 🌱
@@ -11,7 +11,8 @@
 
 
 <h3 align="center" >You can reach me at</h3>
-![](https://komarev.com/ghpvc/?username=yesialexanderpoveda&color=yellowgreen)
+
+
 <p align="center">
 
   <a href="https://www.linkedin.com/in/yesidpoveda/">
