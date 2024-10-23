@@ -8,7 +8,6 @@
 
   - 🌱 I’m currently learning new frameworks 🌱
   - 👐 I like to contribute to open source 🕵️
-  - 🐕 I like me dogs 🐶🦮
  
 
 
