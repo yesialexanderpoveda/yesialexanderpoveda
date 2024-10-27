@@ -1,13 +1,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=29&duration=4000&color=6F8EE3&lines=Hi+%F0%9F%91%8B%2C+I'm+Yesid+Poveda+;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB++Welcome+to+my+repository+)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=yesialexanderpoveda&color=yellowgreen) <h3 align="center" >About me :speak_no_evil: </h3>
+![](https://komarev.com/ghpvc/?username=yesialexanderpoveda&color=yellowgreen) <h3 align="center" >About me</h3>
 
 
 
-
-  - 🌱 I’m currently learning new frameworks 🌱
-  - 👐 I like to contribute to open source 🕵️
+- I'm a programmer, building solutions with emerging technologies, participating in enterprise communities and open source projects. 
  
 
 
